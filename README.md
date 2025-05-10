@@ -3,7 +3,7 @@
 <h3 align="center">FullStack Developer</h3>
 
 
-👨‍💻 All my repositories [repos](https://github.com/kmilo1717?tab=repositories) are public — feel free to check them out or review them
+👨‍💻 All my [repositories](https://github.com/kmilo1717?tab=repositories) are public — feel free to check them out or review them
 
 📫 You can get in touch with me at: camilo121200@hotmail.com
  
